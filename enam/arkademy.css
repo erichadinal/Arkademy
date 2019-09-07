@@ -1,0 +1,702 @@
+/* Home */
+home {
+	position: relative;
+	width: 1440px;
+	height: 1024px;
+
+	background: #FFFFFF;
+}
+
+/* Rectangle */
+rectangle {
+	position: absolute;
+	width: 1440px;
+	height: 109px;
+	left: 0px;
+	top: 0px;
+
+	background: #FFFEFE;
+	box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+}
+
+/* ARKADEMY BOOTCAMP */
+arkademy {
+	position: absolute;
+	width: 555px;
+	height: 65px;
+	left: 214px;
+	top: 34px;
+
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 30px;
+	line-height: 41px;
+
+	color: #000000;
+}
+
+
+/* 1_7ugSMISUo8vYf9ILG6VmuQ */
+logo {
+position: absolute;
+width: 150px;
+height: 106px;
+left: 48px;
+top: 0px;
+
+background: url(1_7ugSMISUo8vYf9ILG6VmuQ.png);
+}
+
+/* Table */
+
+position: absolute;
+width: 1292px;
+height: 526.02px;
+left: 143px;
+top: 450.99px;
+
+
+
+/* Table */
+
+position: absolute;
+width: 1292px;
+height: 526.02px;
+left: 143px;
+top: 450.99px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1169px;
+height: 87px;
+left: 145px;
+top: 451px;
+
+background: #F7F7FA;
+
+
+/* Name */
+
+position: absolute;
+width: 214px;
+height: 45px;
+left: 225px;
+top: 474px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+
+color: #000000;
+
+
+
+/* Work */
+
+position: absolute;
+width: 313px;
+height: 50px;
+left: 539px;
+top: 474px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+
+color: #000000;
+
+
+
+/* Salary */
+
+position: absolute;
+width: 288px;
+height: 50px;
+left: 859px;
+top: 474px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+
+color: #000000;
+
+
+
+/* Action */
+
+position: absolute;
+width: 288px;
+height: 50px;
+left: 1147px;
+top: 471px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+
+color: #000000;
+
+
+
+/* Line */
+
+position: absolute;
+width: 526.02px;
+height: 0px;
+left: 394px;
+top: 977.01px;
+
+border: 1px solid #000000;
+transform: rotate(-90deg);
+
+
+/* Line */
+
+position: absolute;
+width: 526.02px;
+height: 0px;
+left: 145px;
+top: 977.01px;
+
+border: 1px solid #000000;
+transform: rotate(-90deg);
+
+
+/* Line */
+
+position: absolute;
+width: 526.02px;
+height: 0px;
+left: 770px;
+top: 977.01px;
+
+border: 1px solid #000000;
+transform: rotate(-90deg);
+
+
+/* Line */
+
+position: absolute;
+width: 526.02px;
+height: 0px;
+left: 1063px;
+top: 977.01px;
+
+border: 1px solid #000000;
+transform: rotate(-90deg);
+
+
+/* Line */
+
+position: absolute;
+width: 526.02px;
+height: 0px;
+left: 1312px;
+top: 977.01px;
+
+border: 1px solid #000000;
+transform: rotate(-90deg);
+
+
+/* Line 2 */
+
+position: absolute;
+width: 1169px;
+height: 0px;
+left: 143px;
+top: 977px;
+
+border: 1px solid #000000;
+
+
+/* Line 2.3 */
+
+position: absolute;
+width: 1169px;
+height: 0px;
+left: 143px;
+top: 877px;
+
+border: 1px solid #000000;
+
+
+/* Line 2.4 */
+
+position: absolute;
+width: 1169px;
+height: 0px;
+left: 143px;
+top: 766px;
+
+border: 1px solid #000000;
+
+
+/* Line 2.5 */
+
+position: absolute;
+width: 1169px;
+height: 0px;
+left: 143px;
+top: 646px;
+
+border: 1px solid #000000;
+
+
+/* Line 2.1 */
+
+position: absolute;
+width: 1169px;
+height: 0px;
+left: 143px;
+top: 540px;
+
+border: 1px solid #000000;
+
+
+/* Line 2.2 */
+
+position: absolute;
+width: 1169px;
+height: 0px;
+left: 143px;
+top: 451px;
+
+border: 1px solid #000000;
+
+
+/* Soni */
+
+position: absolute;
+width: 871px;
+height: 399px;
+left: 211px;
+top: 571px;
+
+
+
+/* Rebecca */
+
+position: absolute;
+width: 260px;
+height: 63px;
+left: 211px;
+top: 571px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+
+color: #000000;
+
+
+
+/* Frontend Dev */
+
+position: absolute;
+width: 260px;
+height: 63px;
+left: 487px;
+top: 571px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+
+color: #000000;
+
+
+
+/* Rp.10.000.000 */
+
+position: absolute;
+width: 260px;
+height: 63px;
+left: 820px;
+top: 571px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+
+color: #000000;
+
+
+
+/* Rp.12.000.000 */
+
+position: absolute;
+width: 260px;
+height: 63px;
+left: 820px;
+top: 686px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+
+color: #000000;
+
+
+
+/* Rp.12.000.000 */
+
+position: absolute;
+width: 260px;
+height: 63px;
+left: 822px;
+top: 799px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+
+color: #000000;
+
+
+
+/* Rp.10.000.000 */
+
+position: absolute;
+width: 260px;
+height: 63px;
+left: 822px;
+top: 907px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+
+color: #000000;
+
+
+
+/* Isgi */
+
+position: absolute;
+width: 522px;
+height: 63px;
+left: 232px;
+top: 686px;
+
+
+
+/* Vita */
+
+position: absolute;
+width: 260px;
+height: 63px;
+left: 232px;
+top: 686px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+
+color: #000000;
+
+
+
+/* Backend Dev */
+
+position: absolute;
+width: 260px;
+height: 63px;
+left: 494px;
+top: 686px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+
+color: #000000;
+
+
+
+/* Iqbal */
+
+position: absolute;
+width: 528px;
+height: 63px;
+left: 225px;
+top: 801px;
+
+
+
+/* Huda */
+
+position: absolute;
+width: 260px;
+height: 63px;
+left: 225px;
+top: 801px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+
+color: #000000;
+
+
+
+/* Backend Dev */
+
+position: absolute;
+width: 260px;
+height: 63px;
+left: 493px;
+top: 801px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+
+color: #000000;
+
+
+
+/* Kiky */
+
+position: absolute;
+width: 515px;
+height: 63px;
+left: 230px;
+top: 912px;
+
+
+
+/* Kiky */
+
+position: absolute;
+width: 260px;
+height: 63px;
+left: 230px;
+top: 912px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+
+color: #000000;
+
+
+
+/* Frontend Dev */
+
+position: absolute;
+width: 260px;
+height: 63px;
+left: 485px;
+top: 912px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+
+color: #000000;
+
+
+
+/* Add Button */
+
+position: absolute;
+width: 196px;
+height: 70px;
+left: 1111px;
+top: 353px;
+
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 190px;
+height: 70px;
+left: 1111px;
+top: 353px;
+
+background: #F3AC13;
+border-radius: 10px;
+
+
+/* ADD */
+
+position: absolute;
+width: 136px;
+height: 32px;
+left: 1171px;
+top: 368px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 41px;
+
+color: #FFEFEF;
+
+
+
+/* Button */
+
+position: absolute;
+width: 132px;
+height: 50px;
+left: 1122px;
+top: 568px;
+
+
+
+/* trash */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 1122px;
+top: 568px;
+
+background: url(trash.png);
+
+
+/* edit */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 1209px;
+top: 572px;
+
+background: url(edit.png);
+
+
+/* Button */
+
+position: absolute;
+width: 132px;
+height: 50px;
+left: 1122px;
+top: 684px;
+
+
+
+/* trash */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 1122px;
+top: 684px;
+
+background: url(trash.png);
+
+
+/* edit */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 1209px;
+top: 688px;
+
+background: url(edit.png);
+
+
+/* Button */
+
+position: absolute;
+width: 132px;
+height: 50px;
+left: 1122px;
+top: 795px;
+
+
+
+/* trash */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 1122px;
+top: 795px;
+
+background: url(trash.png);
+
+
+/* edit */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 1209px;
+top: 799px;
+
+background: url(edit.png);
+
+
+/* Button */
+
+position: absolute;
+width: 132px;
+height: 50px;
+left: 1122px;
+top: 904px;
+
+
+
+/* trash */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 1122px;
+top: 904px;
+
+background: url(trash.png);
+
+
+/* edit */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 1209px;
+top: 908px;
+
+background: url(edit.png);
